@@ -20,11 +20,7 @@ __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
 [__Notebook 4__](./4.%20Fun%20with%20Keypoints.ipynb) : Fun Filters and Keypoint Uses
 
-## Project Instructions
 
-Before you can get started coding, you'll have to make sure that you have all the libraries and dependencies required to support this project. If you have already created a `cv-nd` environment for  then you can use that environment! If not, instructions for creation and activation are below.
-
-*Note that this project does not require the use of GPU, so this repo does not include instructions for GPU setup.*
 
 
 
